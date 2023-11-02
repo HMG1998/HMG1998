@@ -1,0 +1,6 @@
+mysql>  Create table EMPLOYEES
+      first_name VARCHAR(100),
+      age INT (100):
+
+mysql> Select * from EMPLOYEES
+      Values ( Amit, 25):
